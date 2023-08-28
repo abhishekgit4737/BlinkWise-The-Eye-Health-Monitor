@@ -2,7 +2,10 @@
 
 **Project Description:**
 
-BlinkWise is a web application built with Python which is designed to monitor user eye health through blink detection and provide relevant eye health information. The application is developed using streamlit library for user interaction, tracks and analyzes user blinking patterns.It gathers data and generates reports on eye health, offering insights into user eye strain and blink rate. The application also provides real-time notifications to encourage users to blink more frequently, helping to alleviate potential eye strain.
+BlinkWise is a web application built with Python which is designed to monitor user eye health through blink detection and provide relevant eye health information. 
+The application is developed using streamlit library for user interaction, tracks and analyzes user blinking patterns.
+It gathers data and generates reports on eye health, offering insights into user eye strain and blink rate. 
+It also provides real-time notifications to encourage users to blink more frequently, helping to alleviate potential eye strain.
 
 ### Components and Modules:
 
