@@ -1,4 +1,4 @@
-## WORKFIT: Eye Blink Detection and Health Monitoring
+## BlinkWise: Eye Blink Detection and Health Monitoring
 
 **Project Description:**
 
