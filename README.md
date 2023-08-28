@@ -1,4 +1,4 @@
-## BlinkWise: Eye Blink Detection and Health Monitoring
+## BlinkWise: The Eye Blink Health Monitor
 
 **Project Description:**
 
