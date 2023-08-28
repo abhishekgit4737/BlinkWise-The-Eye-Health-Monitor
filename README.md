@@ -52,6 +52,4 @@ WorkFit is a web application designed to monitor user eye health through blink d
 **Note:** Ensure MongoDB is running and accessible at `localhost:27017` for proper data storage.
 
 ---
-
-**Disclaimer:** The WorkFit application is intended for informational purposes only and is not a substitute for professional medical advice. Users experiencing persistent eye discomfort should consult a medical professional. The application's notifications are designed to promote healthy blinking habits but may not cover all aspects of eye health.
  
